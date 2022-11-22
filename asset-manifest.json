@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.29a1e4a4.css",
-    "main.js": "/static/js/main.a1784ef8.js",
-    "index.html": "/index.html",
-    "main.29a1e4a4.css.map": "/static/css/main.29a1e4a4.css.map",
-    "main.a1784ef8.js.map": "/static/js/main.a1784ef8.js.map"
+    "main.css": "/Forget_Appointments/static/css/main.29a1e4a4.css",
+    "main.js": "/Forget_Appointments/static/js/main.a1784ef8.js",
+    "index.html": "/Forget_Appointments/index.html",
+    "main.29a1e4a4.css.map": "/Forget_Appointments/static/css/main.29a1e4a4.css.map",
+    "main.a1784ef8.js.map": "/Forget_Appointments/static/js/main.a1784ef8.js.map"
   },
   "entrypoints": [
     "static/css/main.29a1e4a4.css",
