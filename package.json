@@ -1,6 +1,7 @@
 {
   "name": "forget",
   "version": "0.1.0",
+  "homepage": "https://Developer2BeEjaz.github.io/Forget_Appointments",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.3",
